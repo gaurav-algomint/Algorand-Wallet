@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Algorand-Wallet/precache-manifest.1884219c7c56c77339602b7c9a769747.js"
+  "/Algorand-Wallet/precache-manifest.2aed01f3ac18956550e05840df241f86.js"
 );
 
 self.addEventListener('message', (event) => {
